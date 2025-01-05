@@ -21,6 +21,14 @@ Coding can be challenging, especially when debugging complex issues or optimizin
 - Improve your coding practices with real-time suggestions.
 - Help you stay productive by providing instant assistance whenever you need it.
 ---
+---
+
+## 🎥 Demo Video  
+
+Check out HackBuddy in action:  
+[Watch Demo](https://youtu.be/l28sqI7FJQE?si=deLPRvLJ9WszLQoI)
+
+---
 
 ## 🖼️ Screenshots  
 
